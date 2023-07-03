@@ -7,7 +7,7 @@ schema:
   file: ./schema.graphql
 
 network:
-  endpoint: wss://basilisk.api.onfinality.io/public-ws
+  endpoint: wss://rpc.smartbch.org
   genesisHash: "0xa85cfb9b9fd4d622a5b28289a02347af987d8f73fa3108450e2b4a11c1ce5755"
 
 dataSources:
